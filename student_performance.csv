@@ -1,0 +1,16 @@
+﻿student_id,gender,age,study_hours_per_day,attendance_percentage,parental_education,internet_access,extracurricular_activities,previous_grade,final_grade,grade
+1,Female,17,3,85,Bachelor,Yes,Yes,78,82,A
+2,Male,18,2,75,High School,No,No,65,70,B
+3,Female,16,4,90,Master,Yes,Yes,88,91,A
+4,Male,17,1,60,High School,No,No,55,58,C
+5,Female,18,5,95,PhD,Yes,Yes,92,96,A
+6,Male,17,2,70,Bachelor,Yes,No,68,72,B
+7,Female,16,3,80,Master,Yes,Yes,75,78,B
+8,Male,18,4,88,Bachelor,Yes,Yes,85,89,A
+9,Female,17,2,65,High School,No,No,60,64,C
+10,Male,16,3,78,Bachelor,Yes,Yes,72,75,B
+11,Female,18,5,92,PhD,Yes,Yes,90,94,A
+12,Male,17,1,55,High School,No,No,50,52,C
+13,Female,16,4,87,Master,Yes,Yes,82,86,A
+14,Male,18,2,73,Bachelor,Yes,No,67,69,B
+15,Female,17,3,82,Bachelor,Yes,Yes,76,80,A
